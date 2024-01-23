@@ -1,0 +1,166 @@
+1 Aerial Extortionist (NCC) 11
+1 Anafenza, Kin-Tree Spirit (MUL) 1
+1 Ancient Gold Dragon (CLB) 365
+1 Angel of Destiny (ZNR) 2
+1 Angel of Destiny (PAGL) 4 F
+1 Angel of Finality (C20) 75
+1 Angel of Finality (SLD) 1342 F
+1 Angel of Serenity (PAGL) 5 F
+1 Angelic Field Marshal (CMM) 13 F
+1 Anointed Peacekeeper (DMU) 2
+1 Archaeomancer's Map (C21) 12
+2 Archivist of Oghma (CLB) 4
+1 Archon of Coronation (NCC) 192
+1 Archon of Emeria (ZNR) 315
+1 Arden Angel (SLD) 1344 F
+3 Ascend from Avernus (CLB) 5
+1 Austere Command (NCC) 193
+1 Austere Command (PAGL) 8
+1 Autonomous Assembler (BRO) 34
+3 Battle Angels of Tyr (CLB) 9
+1 Bishop of Wings (PAGL) 9
+1 Boon-Bringer Valkyrie (MOM) 9
+1 Bruna, the Fading Light (EMN) 15a
+1 Brutal Cathar // Moonrage Brute (MID) 7
+1 Cartographer's Hawk (C20) 24
+1 Cleansing Nova (PAGL) 11
+1 Commander's Insignia (C19) 2
+1 Court of Grace (SLD) 1338 F
+1 Curse of Silence (MID) 15
+1 Danitha, Benalia's Hope (PDMU) 15p F
+1 Darksteel Mutation (CMM) 623
+1 Dawn of Hope (PAGL) 12
+1 Dawnbreak Reclaimer (SLD) 1346 F
+1 Decree of Justice (DDO) 7
+1 Decree of Justice (J22) 173
+1 Depopulate (SNC) 406
+1 Descend upon the Sinful (SOI) 13
+1 Disciple of Caelus Nin (BRC) 41
+1 Dismantling Wave (PAGL) 13
+1 Divine Sacrament (DMR) 5
+1 Dusk // Dawn (NCC) 198
+1 Eldrazi Displacer (PLIST) 14
+1 Emeria Angel (ZNC) 15
+1 Emeria Shepherd (PAGL) 14 F
+1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12 F
+1 Empyrial Storm (C18) 2
+1 Entreat the Angels (PAGL) 15 F
+2 Exalted Angel (P30A) 10 F
+2 Expel the Interlopers (WOE) 13
+1 Extraction Specialist (SNC) 12
+1 Fabrication Foundry (LCI) 12
+1 Faithbound Judge // Sinner's Judgment (VOW) 348
+1 Faithbound Judge // Sinner's Judgment (VOW) 12
+1 Felidar Retreat (ZNR) 16
+1 Firemane Commando (MOC) 73
+1 Flawless Maneuver (CMM) 24
+1 Flowering of the White Tree (LTR) 15
+1 Flumph (AFR) 15
+2 Giada, Font of Hope (SNC) 14
+1 Giada, Font of Hope (PAGL) 16
+2 Glorious Protector (KHM) 12
+1 Glorious Protector (PKHM) 12p
+1 Guardian of Faith (AFR) 18
+1 Guardian of Ghirapur (MOM) 16
+1 Guardian of New Benalia (DMU) 19
+1 Gustcloak Savior (DDO) 11
+1 Hallowed Haunting (VOW) 349
+1 Hopeful Initiate (VOW) 20 F
+1 Horn of Valhalla // Ysgard's Call (CLB) 26
+1 Hour of Reckoning (J22) 194
+1 Invasion of Gobakhan // Lightshield Array (MOM) 22
+1 Jailbreak (NCC) 17
+1 Kalemne's Captain (C20) 92
+1 Kayla's Command (BRO) 302
+1 Kayla's Reconstruction (BRO) 10
+1 Keeper of the Accord (PAGL) 19
+1 Kemba, Kha Enduring (ONE) 19
+1 Kindred Boon (PAGL) 20
+1 Knight-Errant of Eos (MOM) 26
+1 Lae'zel's Acrobatics (CLB) 30
+1 Legion Angel (ZNR) 23
+1 Legion Loyalty (CLB) 371
+1 Leyline Binding (DMU) 24
+2 Light-Paws, Emperor's Voice (NEO) 25
+1 Livio, Oathsworn Sentinel (CMR) 31
+1 Loran of the Third Path (PBRO) 12p
+1 Lumbering Battlement (RNA) 15
+1 Luminarch Aspirant (ZNR) 319
+1 Mangara, the Diplomat (CMM) 42
+1 March of the Canonized (LCC) 73
+1 Maul of the Skyclaves (ZNR) 27 F
+1 Mite Overseer (ONE) 404
+1 Monastery Mentor (PMOM) 28p
+1 Moonshaker Cavalry (WOE) 21
+1 Myojin of Blooming Dawn (NEC) 31
+1 Mysterious Limousine (SNC) 462 F
+1 Mysterious Limousine (SNC) 22
+1 Noble Heritage (CLB) 35
+1 Nykthos Paragon (PAGL) 21
+1 Ondu Inversion // Ondu Skyruins (ZNR) 30 F
+1 Oswald Fiddlebender (AFR) 28
+1 Path to Exile (CMM) 626
+1 Phyrexian Unlife (WOT) 11
+1 Platoon Dispenser (BRO) 36
+1 Precinct Captain (DDO) 22
+1 Preston, the Vanisher (J22) 8
+1 Priest of the Blessed Graf (VOC) 45
+2 Rabble Rousing (SNC) 24
+1 Rally the Ranks (KHM) 20
+1 Redemption Choir (LCC) 74
+1 Regal Bunnicorn (PWOE) 25s F
+1 Restoration Angel (J22) 233
+1 Reveillark (C20) 97
+1 Righteous Confluence (CMM) 53
+1 Righteous Valkyrie (PAGL) 23 F
+1 Sanctuary Warden (SNC) 30
+1 Savior of Ollenbock (VOW) 34
+2 Sculpted Sunburst (CLB) 42
+1 Search for Glory (PAGL) 24
+1 Second Sunrise (PLIST) 584
+1 Sephara, Sky's Blade (PAGL) 25 F
+2 Serra Angel (P30A) 1 F
+1 Serra Ascendant (PAGL) 26
+1 Serra Avenger (M13) 33
+1 Serra Paragon (DMU) 32
+4 Serra Redeemer (DMU) 282
+1 Sevinne's Reclamation (CMM) 55
+1 Siege Veteran (BRO) 25
+1 Sigarda's Aid (CMR) 384
+1 Sigarda's Summons (VOW) 36
+1 Sigarda's Summons (VOW) 353 F
+1 Sigil of the Empty Throne (J22) 244
+2 Skrelv's Hive (ONE) 34
+1 Skyclave Apparition (ZNR) 39
+1 Skyclave Apparition (ZNR) 39 F
+1 Smuggler's Share (NCC) 21
+1 Speaker of the Heavens (PAGL) 28
+1 Spellbook Vendor (PWOE) 31s F
+1 Sram, Senior Edificer (CMR) 386
+1 Storm of Souls (VOC) 47
+1 Sun Titan (ZNC) 21
+1 Sun Titan (NCC) 210
+1 Sunfall (PMOM) 40p
+4 Temporary Lockdown (DMU) 36
+1 Tenuous Truce (NCC) 87
+1 Tenuous Truce (NCC) 87 F
+1 Thalia's Lancers (PAGL) 32
+1 Thalia, Guardian of Thraben (VOW) 331
+1 Thalia, Guardian of Thraben (VOW) 318 F
+1 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
+1 Tocasia's Welcome (BRO) 30 F
+1 Tocasia's Welcome (PBRO) 30p
+1 Together Forever (ZNC) 22
+1 Unstable Glyphbridge // Sandswirl Wanderglyph (LCI) 41
+2 Urza Assembles the Titans (DMU) 37
+1 Valkyrie Harbinger (KHM) 374
+1 Valkyrie Harbinger (SLD) 1347 F
+1 Vanquish the Horde (MID) 41
+1 Vanquish the Horde (PMID) 41p
+1 Wakening Sun's Avatar (CMM) 68
+1 Warden of the Inner Sky (LCI) 43
+1 Welcoming Vampire (VOW) 287
+1 Werefox Bodyguard (WOE) 39
+1 White Sun's Zenith (CMR) 391
+1 Wrath of God (DMR) 279 F
+1 Zetalpa, Primal Dawn (CMM) 71

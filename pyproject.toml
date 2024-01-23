@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "magic-query-tool"
+version = "0.1.0"
+description = "querying magic card with REST api"
+authors = ["Ramonnn <29675067+Ramonnn@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+pandas = "^2.2.0"
+pylint = "^3.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
