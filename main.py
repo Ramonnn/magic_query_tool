@@ -34,13 +34,5 @@ for index, row in data.iterrows():
 combined_data = pd.concat(
     [pd.json_normalize(response) for response in json_responses], ignore_index=True
 )
-
-# if result:
-#    print(f"Name: {result['name']}")
-#    print(f"Type: {result['type_line']}")
-#    print(f"Mana Cost: {result['mana_cost']}")
-# else:
-#    print("Card not found or error in fetching data.")
-
-
+combined_data.to_csv('card_info.csv')
 print(combined_data.head(10))

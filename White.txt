@@ -39,7 +39,7 @@
 1 Dismantling Wave (PAGL) 13
 1 Divine Sacrament (DMR) 5
 1 Dusk // Dawn (NCC) 198
-1 Eldrazi Displacer (PLIST) 14
+1 Eldrazi Displacer (PLST) 14
 1 Emeria Angel (ZNC) 15
 1 Emeria Shepherd (PAGL) 14 F
 1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12 F
@@ -117,7 +117,7 @@
 1 Savior of Ollenbock (VOW) 34
 2 Sculpted Sunburst (CLB) 42
 1 Search for Glory (PAGL) 24
-1 Second Sunrise (PLIST) 584
+1 Second Sunrise (PLST) 584
 1 Sephara, Sky's Blade (PAGL) 25 F
 2 Serra Angel (P30A) 1 F
 1 Serra Ascendant (PAGL) 26
